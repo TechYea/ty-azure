@@ -1,4 +1,4 @@
 {
-  "fileUris": ["https://raw.githubusercontent.com/TechYea/ty-azure/main/install_web.sh1?token=ASSLBF4NFUNFUXDJKYHPWKDABSP4S"],
-  "commandToExecute": "./install_web.sh1"
+  "fileUris": ["https://raw.githubusercontent.com/TechYea/ty-azure/main/install_web.sh?token=ASSLBF6MF565HZVOJA3JEPDABST5S"],
+  "commandToExecute": "./install_web.sh"
 }
